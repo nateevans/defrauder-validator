@@ -2,8 +2,7 @@
 Validation functions for Defrauder
 
 # Install
-```
-#!json
+```json
 {
   "repositories": [
     {
