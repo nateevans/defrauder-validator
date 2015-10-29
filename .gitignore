@@ -1,0 +1,6 @@
+/.idea
+.DS_Store
+._DS_Store
+/vendor/
+composer.lock
+/results

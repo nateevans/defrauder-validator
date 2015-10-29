@@ -1,0 +1,19 @@
+{
+  "name": "nateevans/defrauder-validator",
+  "type": "library",
+  "description": "Transaction validation functions",
+  "authors": [
+    {
+      "name": "Nate Evans",
+      "email": "nate544@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3"},
+  "require-dev": {
+    "phpunit/phpunit": "4.*"
+  },
+  "autoload": {
+    "psr-4": {"Defrauder\\": "src/Defrauder"}
+  }
+}
